@@ -1,4 +1,4 @@
 import { createAction } from 'redux-actions';
 
-export const increment = createAction('increment');
-export const decrement = createAction('decrement');
+export const actionsIncrement = createAction('actionsIncrement');
+export const acitonsDecrement = createAction('acitonsDecrement');
